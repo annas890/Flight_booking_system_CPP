@@ -1,2 +1,23 @@
-# Flight_booking_system_CPP
-Developed a console-based Flight Booking System Project using C++ for first-semester computer programming. The system allows users to view available flights, book tickets, cancel reservations, and display passenger records. Implemented using arrays, functions, loops, and conditional statements
+Flight Booking System (C++)
+
+Description
+This is a simple console-based Flight Booking System developed in C++ without using Object-Oriented Programming (OOP).
+
+Features
+- View available flights
+- Book tickets
+- Cancel reservations
+- View passenger records
+
+Concepts Used
+- Arrays
+- Functions
+- Loops
+- Conditional Statements
+
+## 🎯 Purpose
+This project was developed as part of first semester Computer Programming to strengthen basic programming concepts.
+
+## 👨‍💻 Author
+Annas Islam
+Muhammad Eyad Atif 
