@@ -15,9 +15,9 @@ Concepts Used
 - Loops
 - Conditional Statements
 
-## 🎯 Purpose
+Purpose
 This project was developed as part of first semester Computer Programming to strengthen basic programming concepts.
 
-## 👨‍💻 Author
+Author
 Annas Islam
 Muhammad Eyad Atif 
